@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### For non-developer users
+
+If the goal is to be able to present this to users who don't know how any of the magic works - this is a short tutorial. 
+Firstly, you'll need a command line of any sort (PowerShell, cmd, git bash), git, and Node.js. 
+
+After installing those, go into a folder with any command line interpreter, and type `git clone https://github.com/doridugandzic/q-ag-test`. 
+
+Open the code location with the CLI, and type `npm start`. This will start the project in your default browser, on localhost:3000.
+
+### After 'npm start'
+
+I've taken some liberty in defining the project as I believe in constant, on-the-fly improvement if possible, to improve user experience and usability - the UI was made to be more intuitive and less overbearing for more basic users. 
+
+Time taken to create this was under a single workday, about 5-7 hours total. I focused on being able to re-use components, and expand them if the need is there. 
+
+If there are any specifics you wish for me to introduce, I can likely easily add them.
